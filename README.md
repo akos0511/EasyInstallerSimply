@@ -23,7 +23,7 @@ Rift (Used to play Fortnite builds ranging from 1.7.2 - 15.50): [Rift Discord Se
 
 # How to install builds
 
-Step 1: Download `start_download.bat` (and others???) and run it.
+Step 1: Download the Alpha Release and run it.
 
 Step 2: Type the number in [ ] in the prompt after you select what drive
 
