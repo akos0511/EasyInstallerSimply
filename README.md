@@ -1,9 +1,7 @@
 # EasyInstallerSimply
 
-This is just a a simplified version of EasyInstaller. Original one made by Kyiro!
-(https://github.com/Kyiro/Fortnite-ManifestsArchive).
-Huge shoutout to VastBlast for making the FortniteManifest Archive!
-(https://github.com/VastBlast/FortniteManifestArchive).
+This is just a a simplified version of [EasyInstaller](https://github.com/Kyiro/Fortnite-ManifestsArchive). Original one made by Kyiro!
+Huge shoutout to VastBlast for making the [FortniteManifest Archive](https://github.com/VastBlast/FortniteManifestArchive)!
 
 This is made to prevent the children that are trying to get "old fortnite 👶" but download an iOS or Android Manifest!
 
@@ -11,11 +9,11 @@ This is made to prevent the children that are trying to get "old fortnite 👶" 
 
 Useful Discord servers for Builds that are in the EasyInstaller.exe:
 
-Neo Mods (Used to play events past 16.00): https://discord.gg/n9MAV7HZUk
+Neo Mods (Used to play events past 16.00): [Neonite Mods Discord Server](https://discord.gg/n9MAV7HZUk)
 
-Era (Used to play Fortnite builds ranging from 2.5 to 12.41 (Subject to change)): https://discord.gg/Erafn
+Era (Used to play Fortnite builds ranging from 2.5 to 12.41 (Subject to change)): [Era Discord Server](https://discord.gg/Erafn)
 
-Rift (Used to play Fortnite builds ranging from 1.7.2 - 15.50): https://discord.gg/Riftfn
+Rift (Used to play Fortnite builds ranging from 1.7.2 - 15.50): [Rift Discord Server](https://discord.gg/Riftfn)
 
 
 
@@ -60,3 +58,11 @@ For Example, locate `C:\Users\{PC USERNAME}\Desktop\Fortnite\FortniteGame\Binari
 into the Win64 Folder.
 
 **Side Note: You only need to do this once, it should then fix permanently with the builds that have these issues.**
+
+
+
+## Credits:
+
+Kyrio for original Easyinstaller [EasyInstaller 1.2](https://github.com/Kyiro/Fortnite-ManifestsArchive).
+Mineluke for the godly AMD Fix [AMD FIX](https://github.com/akos0511/EasyInstallerSimply/files/8928971/AMD_Fix_1.zip).
+Vastblast for Archiving every [Manifest build of Fortnite](https://github.com/VastBlast/FortniteManifestArchive).
