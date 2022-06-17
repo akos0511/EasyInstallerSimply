@@ -4,7 +4,7 @@ This is just a a simplified version of [EasyInstaller](https://github.com/Kyiro/
 Huge shoutout to VastBlast for making the [FortniteManifest Archive](https://github.com/VastBlast/FortniteManifestArchive)!
 
 This is made to prevent the children that are trying to get "old fortnite 👶" but download an iOS or Android Manifest!
-### !! IF U WANT TO USE THIS EASILY JUST START `start_download.bat`
+### !! IF U WANT TO USE THIS EASILY JUST START `start_download.bat`!!
 
 ### Scroll down to find the tutorial with EasyInstaller
 
