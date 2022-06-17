@@ -51,7 +51,7 @@ AMD PC's have issues with seasons 1.7.2 - 1.11. The following .zip has the dll's
 AMD Issue Example:
 
 ![image](https://user-images.githubusercontent.com/104956918/174333229-8b9795a3-ff25-4b78-bee6-bee1a4b845be.png)
-[AMD FIX](https://github.com/akos0511/EasyInstallerSimply/files/8928971/AMD_Fix_1.zip)
+### [AMD FIX](https://github.com/akos0511/EasyInstallerSimply/files/8928971/AMD_Fix_1.zip)
 
 To find where to drag these dll's, open the game files of the build you have downloaded that has this issue.
 For Example, locate `C:\Users\{PC USERNAME}\Desktop\Fortnite\FortniteGame\Binaries\Win64`and drag 
@@ -67,5 +67,7 @@ into the Win64 Folder.
 ## Credits:
 
 Kyrio for original Easyinstaller [EasyInstaller 1.2](https://github.com/Kyiro/Fortnite-ManifestsArchive).
+
 Mineluke for the godly AMD Fix [AMD FIX](https://github.com/akos0511/EasyInstallerSimply/files/8928971/AMD_Fix_1.zip).
+
 Vastblast for Archiving every [Manifest build of Fortnite](https://github.com/VastBlast/FortniteManifestArchive).
