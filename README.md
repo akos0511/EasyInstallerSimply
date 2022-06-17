@@ -5,6 +5,8 @@ Huge shoutout to VastBlast for making the [FortniteManifest Archive](https://git
 
 This is made to prevent the children that are trying to get "old fortnite 👶" but download an iOS or Android Manifest!
 
+### Scroll down to find the tutorial with EasyInstaller
+
 ## Builds from 16.00+ do NOT work with either Rift or Era. Although Neonite can be used to access Events and builds past 16.00.
 
 Useful Discord servers for Builds that are in the EasyInstaller.exe:
@@ -35,7 +37,7 @@ Click on this, and press Ctrl+C (do not press +)
 
 Once you have copied it, paste it in `start_download.bat`.
 
-Step 4: Wait, depending on your internet speeds, your download time may vary. This cannot be fixed from us. If it wont continue and is stuck on a specific percentage for quite a while, clear up some space and start the download again. You might not have enough storage on that drive.
+Step 4: Wait, depending on your internet speeds, your download time may vary. This cannot be fixed from us. If it wont continue and is stuck on a specific percentage for quite a while, clear up some space and start the download again. You might not have enough storage on that drive. It should tell you that you are able to close it. That is when it is done!
 
 Step 5: Once done, add your build to the Era or Rift Launcher, and launch the game. If everything goes correctly, nothing bad should happen.
 
