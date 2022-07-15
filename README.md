@@ -72,4 +72,4 @@ Mineluke for the godly AMD Fix [AMD FIX](https://github.com/akos0511/EasyInstall
 
 Vastblast for Archiving every [Manifest build of Fortnite](https://github.com/VastBlast/FortniteManifestArchive).
 
-Samicc for the [No Manifest Builds] (https://github.com/notsamicc/Fortnite-Builds).
+Samicc for the [No Manifest Builds](https://github.com/notsamicc/Fortnite-Builds).
