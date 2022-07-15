@@ -2,7 +2,7 @@ import os
 import requests
 import gdown
 
-linksraw = requests.get("https://raw.githubusercontent.com/Twin1YT/EasyInstallerSimply/main/OlderSeasons.txt")
+linksraw = requests.get("https://raw.githubusercontent.com/akos0511/EasyInstallerSimply/main/OlderSeasons.txt")
 
 txt = linksraw.text
 
