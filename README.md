@@ -71,3 +71,5 @@ Kyrio for original Easyinstaller [EasyInstaller 1.2](https://github.com/Kyiro/Fo
 Mineluke for the godly AMD Fix [AMD FIX](https://github.com/akos0511/EasyInstallerSimply/files/8928971/AMD_Fix_1.zip).
 
 Vastblast for Archiving every [Manifest build of Fortnite](https://github.com/VastBlast/FortniteManifestArchive).
+
+Samicc for the [No Manifest Builds] (https://github.com/notsamicc/Fortnite-Builds).
