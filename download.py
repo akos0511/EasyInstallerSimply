@@ -36,7 +36,7 @@ print("[2] Season 8-Latest")
 
 input = int(input(">> "))
 if input == 1:
-    os.system(f'assets\\zipdownloader.py')
+    os.system(f'zipdownloader.py')
 elif input == 2:
     # todo custom formatter for cli logger (clean info, highlighted error/warning)
     logging.basicConfig(
