@@ -8,11 +8,11 @@ This is made to prevent the children that are trying to get "old fortnite 👶" 
 
 ### Scroll down to find the tutorial with EasyInstaller
 
-## Builds from 16.00+ do NOT work with either Rift or Era. Although Neonite can be used to access Events and builds past 16.00.
+## Builds from 16.00+ do NOT work with either Rift or Era. Although Neonite/Carbon can be used to access Events and builds past 16.00.
 
 Useful Discord servers for Builds that are in the EasyInstaller.exe:
 
-Neo Mods (Used to play events past 16.00): [Neonite Mods Discord Server](https://discord.gg/n9MAV7HZUk)
+Carbon (Used to play Fortnite builds ranging from 7.30 to latest (Subject to change)): [Neonite Mods Discord Server](https://discord.gg/n9MAV7HZUk)
 
 Era (Used to play Fortnite builds ranging from 2.5 to 12.41 (Subject to change)): [Era Discord Server](https://discord.gg/Erafn)
 
